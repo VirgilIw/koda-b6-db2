@@ -34,3 +34,4 @@ TRANSACTION_TYPE ||--|{ TRANSACTION : HAS
 
 ```
 <!-- TYPE = TOP-UP, PAYMENT, TRANSFER-OUT, TRANSFER-IN, REFUND -->
+<!-- 1 wallet bisa banyak transaksi -->
